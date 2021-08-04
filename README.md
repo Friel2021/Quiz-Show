@@ -22,7 +22,7 @@ WHEN I answer a question
 THEN I am presented with another question
 
 WHEN I answer a question incorrectly
-THEN time is subtracted from the clock you will lose 5 seconds on the clock
+THEN 5 seconds are subtracted from the timer
 
 WHEN all questions are answered
 THEN the game is over
