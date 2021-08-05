@@ -155,3 +155,12 @@ button:hover {
 #endGameBtns {
   display: none;
 }
+
+@media screen and (max-width: 480px) {
+}
+
+@media screen and (max-width: 780px) {
+}
+@media screen and (max-width: 1020px) {
+}
+
