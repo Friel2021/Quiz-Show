@@ -1,6 +1,4 @@
 # Quiz-Show
-![FireShot Capture 008 - Code Quiz Challenge - friel2021 github io](https://user-images.githubusercontent.com/87154134/128238057-1cb0caf5-acc1-4058-93f7-0ea2c8a071d9.png)
-
 
 Welcome to Baseball 101 Quiz-Show!  Good luck!
 
