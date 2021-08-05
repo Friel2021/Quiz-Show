@@ -4,18 +4,20 @@
 
 Welcome to Baseball 101 Quiz-Show!  Good luck!
 
+Test your knowledge on baseball trivia!
+
 ## User Story
 
 ```
 AS A coding boot camp student
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+I WANT to take a timed quiz that stores high scores
 SO THAT I can gauge my progress compared to my peers
 ```
 
 ```
-GIVEN I am taking a code quiz
+GIVEN I am taking a Baseball 101 Quiz
 
-WHEN I click the start button
+WHEN I click the start quiz show button
 THEN a timer starts and I am presented with a question
 
 WHEN I answer a question
