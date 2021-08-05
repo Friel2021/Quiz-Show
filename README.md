@@ -32,4 +32,4 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
 
-Click [here] (https://friel2021.github.io/Quiz-Show/) to go my deployed Quiz Show Page!
+Click [here](https://friel2021.github.io/Quiz-Show) to go my deployed Quiz Show Page!
